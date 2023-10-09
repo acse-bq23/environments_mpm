@@ -7,7 +7,6 @@ print(rand_array(shape))
 '''
 
 from envtest import smooth_image
-
 from scipy import misc
 import matplotlib.pyplot as plt
 
